@@ -1,4 +1,4 @@
-[	![alt text](image.jpg)]([https://www.example.com](https://leetcode.com/problemset/all/))
+<img src="https://example.com/image.jpg" alt="Description of image">
 
 
 
