@@ -13,8 +13,8 @@ this collection of beginner-friendly LeetCode problems. This repository features
 
 
 # 75 Blind-leetcode-questions.:bulb:
-|  #  |      Title     |   Difficulty  | Topic  || Video  | Solutions   |                  
-|-----|----------------|---------------|--------||--------|-------------|
+|  #  |      Title     |   Difficulty  | Topic  | Video  | Solutions   |                  
+|-----|----------------|---------------|--------|--------|-------------|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|| Array & Hashing ||[Solution](../main/Solutions/217-contains-duplicate.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|| Array & Hashing ||[Solution](../main/Solutions/242-valid-anagram.py) |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|Easy|| Array & Hashing ||[Solution](../main/Solutions/1-two-sum.py) |
