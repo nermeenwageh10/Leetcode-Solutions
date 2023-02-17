@@ -50,10 +50,10 @@ this collection of beginner-friendly LeetCode problems. This repository features
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|Trees||[Solution](../main/Solutions/105-construct-binary-tree.py) |
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|Hard|Trees||[Solution](../main/Solutions/124-maximum-path.py) |
 |297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Hard|Trees||[Solution](../main/Solutions/297-serialize-and-deserialize.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
+|208|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|Medium|Tries||[Solution](../main/Solutions/208-implement-trie.py) |
+|211|[design-add-and-search-words-data-structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|Medium|Tries||[Solution](../main/Solutions/211-design-search.py) |
+|212|[word-search-ii](https://leetcode.com/problems/word-search-ii/)|Hard|Tries||[Solution](../main/Solutions/212-word-search-ii.py) |
+|295|[find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream/)|Hard|Heap||[Solution](../main/Solutions/295-find-median.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
