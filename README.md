@@ -63,19 +63,19 @@ this collection of beginner-friendly LeetCode problems. This repository features
 |323|[number-of-connected-components-in-an-undirected-graph :lock:](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|Graph||[Solution](../main/Solutions/323-connected-components.py) |
 |261|[ graph-valid-tree :lock:](https://leetcode.com/problems/graph-valid-tree/)|Medium|Graph||[Solution](../main/Solutions/261-valid-tree<+ç
 .py) |
-|269|[ alien-dictionary :lock:](https://leetcode.com/problems/alien-dictionary/)|Graph|Advanced Graph||[Solution](../main/Solutions/269-alien-dictionary.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|1-D Dynamic Programming ||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
+|269|[ alien-dictionary :lock:](https://leetcode.com/problems/alien-dictionary/)|Hard|Advanced Graph||[Solution](../main/Solutions/269-alien-dictionary.py) |
+|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|1-D Dynamic Programming ||[Solution](../main/Solutions/70-climbing-stairs.py) |
+|198|[ house-robber](https://leetcode.com/problems/house-robber/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/198-house-robber.py) |
+|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/213-house-robber_2.py) |
+|5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/5-longest-palindromic-substring.py) |
+|647|[palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/647-palindromic-substrings.py) |
+|91|[decode-ways](https://leetcode.com/problems/decode-ways/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/91-decode-ways.py) |
+|322|[ coin-change](https://leetcode.com/problems/coin-change/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/322-coin-change.py) |
+|152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/152-maximum-product-subarray.py) |
+|139|[word-break](https://leetcode.com/problems/word-break/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/139-word-break.py) |
+|300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/300-longest-increasing-subsequence.py) |
+|62|[ unique-paths](https://leetcode.com/problems/unique-paths/)|Medium|2-D Dynamic Programming ||[Solution](../main/Solutions/62-unique-paths.py) |
+|1143|[longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Medium|2-D Dynamic Programming ||[Solution](../main/Solutions/1143-longest-common-subsequence.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
