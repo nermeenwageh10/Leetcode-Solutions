@@ -75,8 +75,8 @@ this collection of beginner-friendly LeetCode problems. This repository features
 |300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/300-longest-increasing-subsequence.py) |
 |62|[ unique-paths](https://leetcode.com/problems/unique-paths/)|Medium|2-D Dynamic Programming ||[Solution](../main/Solutions/62-unique-paths.py) |
 |1143|[longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Medium|2-D Dynamic Programming ||[Solution](../main/Solutions/1143-longest-common-subsequence.py) |
-|53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)|Medium||[Solution](../main/Solutions/53-maximum-subarray.py) |
-|55|[jump-game](https://leetcode.com/problems/jump-game/)|Medium||[Solution](../main/Solutions/55-jump-game.py) |
+|53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)|Medium|Greedy||[Solution](../main/Solutions/53-maximum-subarray.py) |
+|55|[jump-game](https://leetcode.com/problems/jump-game/)|Medium|Greedy||[Solution](../main/Solutions/55-jump-game.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
