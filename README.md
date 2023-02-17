@@ -61,8 +61,7 @@ this collection of beginner-friendly LeetCode problems. This repository features
 |417|[pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|Medium|Graph||[Solution](../main/Solutions/417-pacific-atlantic.py) |
 |207|[course-schedule](https://leetcode.com/problems/course-schedule/)|Medium|Graph||[Solution](../main/Solutions/207-course-schedule.py) |
 |323|[number-of-connected-components-in-an-undirected-graph :lock:](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|Graph||[Solution](../main/Solutions/323-connected-components.py) |
-|261|[ graph-valid-tree :lock:](https://leetcode.com/problems/graph-valid-tree/)|Medium|Graph||[Solution](../main/Solutions/261-valid-tree<+ç
-.py) |
+|261|[ graph-valid-tree :lock:](https://leetcode.com/problems/graph-valid-tree/)|Medium|Graph||[Solution](../main/Solutions/261-valid-tree.py) |
 |269|[ alien-dictionary :lock:](https://leetcode.com/problems/alien-dictionary/)|Hard|Advanced Graph||[Solution](../main/Solutions/269-alien-dictionary.py) |
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|1-D Dynamic Programming ||[Solution](../main/Solutions/70-climbing-stairs.py) |
 |198|[ house-robber](https://leetcode.com/problems/house-robber/)|Medium|1-D Dynamic Programming ||[Solution](../main/Solutions/198-house-robber.py) |
