@@ -39,17 +39,17 @@ this collection of beginner-friendly LeetCode problems. This repository features
 |143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|Medium|Linked List||[Solution](../main/Solutions/143-reorder-list.py) |
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Easy|Linked List||[Solution](../main/Solutions/19-remove-node.py) |
 |23|[ merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Hard|Linked List||[Solution](../main/Solutions/23-merge-Ksorted.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
+|226|[ invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|Trees||[Solution](../main/Solutions/226-invert-binary-tree.py) |
+|104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|Trees||[Solution](../main/Solutions/104-maximum-depth-tree.py) |
+|100|[ same tree](https://leetcode.com/problems/same-tree/)|Easy|Trees||[Solution](../main/Solutions/100-same-tree.py) |
+|572|[subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree/)|Easy|Trees||[Solution](../main/Solutions/572-subtree-another-tree.py) |
+|235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|Medium|Trees||[Solution](../main/Solutions/235-lowest-common-ancestor.py) |
+|102|[ binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|Trees||[Solution](../main/Solutions/102-binary-tree-level.py) |
+|98|[ validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)|Medium|Trees||[Solution](../main/Solutions/98-validate-binary-search.py) |
+|230|[ kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium|Trees||[Solution](../main/Solutions/230-kth-smallest.py) |
+|105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|Trees||[Solution](../main/Solutions/105-construct-binary-tree.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Hard|Trees||[Solution](../main/Solutions/242-valid-anagram.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Hard|Trees||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
