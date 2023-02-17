@@ -49,7 +49,7 @@ this collection of beginner-friendly LeetCode problems. This repository features
 |230|[ kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium|Trees||[Solution](../main/Solutions/230-kth-smallest.py) |
 |105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|Trees||[Solution](../main/Solutions/105-construct-binary-tree.py) |
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|Hard|Trees||[Solution](../main/Solutions/124-maximum-path.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Hard|Trees||[Solution](../main/Solutions/242-valid-anagram.py) |
+|297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Hard|Trees||[Solution](../main/Solutions/297-serialize-and-deserialize.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
