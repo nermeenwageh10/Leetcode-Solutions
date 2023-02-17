@@ -15,4 +15,4 @@ this collection of beginner-friendly LeetCode problems. This repository features
 # 75 Blind-leetcode-questions.:bulb:
 |  #  |      Title     |   Difficulty  | Video  | Solutions   |                  
 |-----|----------------|---------------|--------|-------------|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution](../main/Solutions/217-contains-duplicate.py) ||Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy||[Solution](../main/Solutions/217-contains-duplicate.py) |
