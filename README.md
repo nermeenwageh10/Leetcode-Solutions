@@ -54,8 +54,8 @@ this collection of beginner-friendly LeetCode problems. This repository features
 |211|[design-add-and-search-words-data-structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|Medium|Tries||[Solution](../main/Solutions/211-design-search.py) |
 |212|[word-search-ii](https://leetcode.com/problems/word-search-ii/)|Hard|Tries||[Solution](../main/Solutions/212-word-search-ii.py) |
 |295|[find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream/)|Hard|Heap||[Solution](../main/Solutions/295-find-median.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
+|39|[combination-sum](https://leetcode.com/problems/combination-sum/)|Medium|Backtracking||[Solution](../main/Solutions/39-combination-sum.py) |
+|79|[word-search](https://leetcode.com/problems/word-search/)|Medium|Backtracking||[Solution](../main/Solutions/79-word-search.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
