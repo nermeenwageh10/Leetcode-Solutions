@@ -77,17 +77,17 @@ this collection of beginner-friendly LeetCode problems. This repository features
 |1143|[longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Medium|2-D Dynamic Programming ||[Solution](../main/Solutions/1143-longest-common-subsequence.py) |
 |53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)|Medium|Greedy||[Solution](../main/Solutions/53-maximum-subarray.py) |
 |55|[jump-game](https://leetcode.com/problems/jump-game/)|Medium|Greedy||[Solution](../main/Solutions/55-jump-game.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy||[Solution](../main/Solutions/242-valid-anagram.py) |
+|57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|Medium|Intervals||[Solution](../main/Solutions/57-Insert-Interval.py) |
+|56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|Medium|Intervals||[Solution](../main/Solutions/56-merge-Intervals.py) |
+|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|Medium|Intervals||[Solution](../main/Solutions/435-Non-overlapping-Intervals.py) |
+|252|[ meeting-rooms](https://leetcode.com/problems/meeting-rooms/)|Easy|Intervals||[Solution](../main/Solutions/252-meeting-rooms.py) |
+|253|[ meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii/)|Medium|Intervals||[Solution](../main/Solutions/253-meeting-rooms-ii.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|Math&Gemotry||[Solution](../main/Solutions/242-valid-anagram.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|Math&Gemotry||[Solution](../main/Solutions/242-valid-anagram.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|Math&Gemotry||[Solution](../main/Solutions/242-valid-anagram.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Bit Manipulation||[Solution](../main/Solutions/242-valid-anagram.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Bit Manipulation||[Solution](../main/Solutions/242-valid-anagram.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Bit Manipulation||[Solution](../main/Solutions/242-valid-anagram.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Bit Manipulation||[Solution](../main/Solutions/242-valid-anagram.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|Bit Manipulation||[Solution](../main/Solutions/242-valid-anagram.py) |
 
