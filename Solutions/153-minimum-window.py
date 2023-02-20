@@ -9,7 +9,5 @@ class Solution:
                 right = mid
         return nums[left]
       
-      #Time complexity:O(N)
-
-
+      #Time complexity:O(logN)
       #Space complexity:O(1)
