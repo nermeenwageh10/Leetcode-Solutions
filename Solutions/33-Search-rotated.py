@@ -16,5 +16,5 @@ class Solution:
         return index
       
       
-      #Time:O(N)
+      #Time:O(logN)
       #Space:O(1)
