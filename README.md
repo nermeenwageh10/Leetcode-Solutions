@@ -82,12 +82,12 @@ this collection of beginner-friendly LeetCode problems. This repository features
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|Medium|Intervals||[Solution](../main/Solutions/435-Non-overlapping-Intervals.py) |
 |252|[ meeting-rooms](https://leetcode.com/problems/meeting-rooms/)|Easy|Intervals||[Solution](../main/Solutions/252-meeting-rooms.py) |
 |253|[ meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii/)|Medium|Intervals||[Solution](../main/Solutions/253-meeting-rooms-ii.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|Math&Gemotry||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|Math&Gemotry||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|Math&Gemotry||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Bit Manipulation||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Bit Manipulation||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Bit Manipulation||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Bit Manipulation||[Solution](../main/Solutions/242-valid-anagram.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Medium|Bit Manipulation||[Solution](../main/Solutions/242-valid-anagram.py) |
+|48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|Medium|Math&Gemotry||[Solution](../main/Solutions/48-Rotate-Image.py) |
+|54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|Medium|Math&Gemotry||[Solution](../main/Solutions/54-Spiral-Matrix.py) |
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Medium|Math&Gemotry||[Solution](../main/Solutions/73-Set-Matrix-Zeroes.py) |
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|Bit Manipulation||[Solution](../main/Solutions/191-Number-of-Bits.py) |
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Easy|Bit Manipulation||[Solution](../main/Solutions/338-Counting-Bits.py) |
+|190|[ Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Easy|Bit Manipulation||[Solution](../main/Solutions/190-Reverse-Bits.py) |
+|268|[ Missing Number](https://leetcode.com/problems/missing-number/)|Easy|Bit Manipulation||[Solution](../main/Solutions/268-Missing-Number.py) |
+|371|[ Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Medium|Bit Manipulation||[Solution](../main/Solutions/371-Sum-Two-Integers.py) |
 
