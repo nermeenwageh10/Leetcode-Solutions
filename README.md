@@ -21,7 +21,7 @@ this collection of beginner-friendly LeetCode problems. This repository features
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../main/Solutions/49-Group-anagrams.py) |
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Array&Hashing||[Solution](../main/Solutions/347-K-frequent.py) |
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|Array&Hashing||[Solution](../main/Solutions/238-Product-except.py) |
-|659|[ Encode and Decode Strings](https://www.lintcode.com/problem/659/)|Medium|Array&Hashing||[Solution](../main/Solutions/659-decode-encode.py) |
+|659|[ Encode and Decode Strings ](https://www.lintcode.com/problem/659/)|Medium|Array&Hashing||[Solution](../main/Solutions/659-decode-encode.py) |
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium|Array&Hashing||[Solution](../main/Solutions/128-longest-sequence.py) |
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Two Pointers||[Solution](../main/Solutions/125-valid-palindrome.py) |
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|Medium|Two Pointers||[Solution](../main/Solutions/15-3-Sum.py) |
