@@ -14,7 +14,7 @@ this collection of beginner-friendly LeetCode problems. This repository features
 # 75 Blind-leetcode-questions.:bulb:
 |  #  |      Title     |   Difficulty   | Topic  | Video  | Solutions   |                  
 |-----|----------------|--------------- |--------|--------|-------------|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing||[Solution](https://github.com/nermeenwageh10/Leetcode-Solutions/blob/main/75-Blind-Questions/Solutions/217-contains-duplicate.py) |
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing||[Solution](../blob/main/75-Blind-Questions/Solutions/217-contains-duplicate.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Array&Hashing||[Solution](../main/Solutions/242-valid-anagram.py) |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Array&Hashing||[Solution](../main/Solutions/1-two-sum.py) |
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../main/Solutions/49-Group-anagrams.py) |
