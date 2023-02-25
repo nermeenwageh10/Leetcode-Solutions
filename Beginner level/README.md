@@ -23,69 +23,77 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/659-decode-encode.py) |
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/128-longest-sequence.py) |
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/125-valid-palindrome.py) |
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/15-3-Sum.py) |
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/11-Container-water.py) |
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Easy|Sliding Window||[Solution](../75-Blind-Questions/Solutions/121-sell-and-buy.py) |
-|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/3-longest-substring.py) |
-|169|[Majority Element](https://leetcode.com/problems/majority-element/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/424-longest-replacement.py) |
-|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Hard|Sliding Window||[Solution](../75-Blind-Questions/Solutions/76-Minimum-Window.py) |
-|1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|Easy|Stack||[Solution](../75-Blind-Questions/Solutions/20-valid-parentheses.py) |
-|1299|[ Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|Medium|Binary Search||[Solution](../75-Blind-Questions/Solutions/153-minimum-window.py) |
-|290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|Medium|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|206|[ Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/206-reverse-linkedlist.py) |
-|21|[ Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/21-merge-linkedlist.py) |
-|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/141-linked-cycle.py) |
-|143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|Medium|Linked List||[Solution](../75-Blind-Questions/Solutions/143-reorder-list.py) |
-|19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/19-remove-node.py) |
-|23|[ merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Hard|Linked List||[Solution](../75-Blind-Questions/Solutions/23-merge-Ksorted.py) |
-|226|[ invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/226-invert-binary-tree.py) |
-|104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/104-maximum-depth-tree.py) |
-|100|[ same tree](https://leetcode.com/problems/same-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/100-same-tree.py) |
-|572|[subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/572-subtree-another-tree.py) |
-|235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/235-lowest-common-ancestor.py) |
-|102|[ binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/102-binary-tree-level.py) |
-|98|[ validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/98-validate-binary-search.py) |
-|230|[ kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/230-kth-smallest.py) |
-|105|[construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/105-construct-binary-tree.py) |
-|124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|Hard|Trees||[Solution](../75-Blind-Questions/Solutions/124-maximum-path.py) |
-|297|[serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|Hard|Trees||[Solution](../75-Blind-Questions/Solutions/297-serialize-and-deserialize.py) |
-|208|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/)|Medium|Tries||[Solution](../75-Blind-Questions/Solutions/208-implement-trie.py) |
-|211|[design-add-and-search-words-data-structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|Medium|Tries||[Solution](../75-Blind-Questions/Solutions/211-design-search.py) |
-|212|[word-search-ii](https://leetcode.com/problems/word-search-ii/)|Hard|Tries||[Solution](../75-Blind-Questions/Solutions/212-word-search-ii.py) |
-|295|[find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream/)|Hard|Heap||[Solution](../75-Blind-Questions/Solutions/295-find-median.py) |
-|39|[combination-sum](https://leetcode.com/problems/combination-sum/)|Medium|Backtracking||[Solution](../75-Blind-Questions/Solutions/39-combination-sum.py) |
-|79|[word-search](https://leetcode.com/problems/word-search/)|Medium|Backtracking||[Solution](../75-Blind-Questions/Solutions/79-word-search.py) |
-|200|[number-of-islands](https://leetcode.com/problems/number-of-islands/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/200-number-islands.py) |
-|133|[ clone-graph](https://leetcode.com/problems/clone-graph/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/133-clone-graph.py) |
-|417|[pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/417-pacific-atlantic.py) |
-|207|[course-schedule](https://leetcode.com/problems/course-schedule/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/207-course-schedule.py) |
-|323|[number-of-connected-components-in-an-undirected-graph :lock:](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/323-connected-components.py) |
-|261|[ graph-valid-tree :lock:](https://leetcode.com/problems/graph-valid-tree/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/261-valid-tree.py) |
-|269|[ alien-dictionary :lock:](https://leetcode.com/problems/alien-dictionary/)|Hard|Advanced Graph||[Solution](../75-Blind-Questions/Solutions/269-alien-dictionary.py) |
-|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|1-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/70-climbing-stairs.py) |
-|198|[ house-robber](https://leetcode.com/problems/house-robber/)|Medium|1-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/198-house-robber.py) |
-|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii/)|Medium|1-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/213-house-robber_2.py) |
-|5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|1-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/5-longest-palindromic-substring.py) |
-|647|[palindromic-substrings](https://leetcode.com/problems/palindromic-substrings/)|Medium|1-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/647-palindromic-substrings.py) |
-|91|[decode-ways](https://leetcode.com/problems/decode-ways/)|Medium|1-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/91-decode-ways.py) |
-|322|[ coin-change](https://leetcode.com/problems/coin-change/)|Medium|1-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/322-coin-change.py) |
-|152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/)|Medium|1-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/152-maximum-product-subarray.py) |
-|139|[word-break](https://leetcode.com/problems/word-break/)|Medium|1-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/139-word-break.py) |
-|300|[longest-increasing-subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|Medium|1-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/300-longest-increasing-subsequence.py) |
-|62|[ unique-paths](https://leetcode.com/problems/unique-paths/)|Medium|2-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/62-unique-paths.py) |
-|1143|[longest-common-subsequence](https://leetcode.com/problems/longest-common-subsequence/)|Medium|2-D Dynamic Programming ||[Solution](../75-Blind-Questions/Solutions/1143-longest-common-subsequence.py) |
-|53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)|Medium|Greedy||[Solution](../75-Blind-Questions/Solutions/53-maximum-subarray.py) |
-|55|[jump-game](https://leetcode.com/problems/jump-game/)|Medium|Greedy||[Solution](../75-Blind-Questions/Solutions/55-jump-game.py) |
-|57|[ Insert Interval](https://leetcode.com/problems/insert-interval/)|Medium|Intervals||[Solution](../75-Blind-Questions/Solutions/57-Insert-Interval.py) |
-|56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|Medium|Intervals||[Solution](../75-Blind-Questions/Solutions/56-merge-Intervals.py) |
-|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|Medium|Intervals||[Solution](../75-Blind-Questions/Solutions/435-Non-overlapping-Intervals.py) |
-|252|[ meeting-rooms](https://leetcode.com/problems/meeting-rooms/)|Easy|Intervals||[Solution](../75-Blind-Questions/Solutions/252-meeting-rooms.py) |
-|253|[ meeting-rooms-ii](https://leetcode.com/problems/meeting-rooms-ii/)|Medium|Intervals||[Solution](../75-Blind-Questions/Solutions/253-meeting-rooms-ii.py) |
-|48|[ Rotate Image](https://leetcode.com/problems/rotate-image/)|Medium|Math&Gemotry||[Solution](../75-Blind-Questions/Solutions/48-Rotate-Image.py) |
-|54|[ Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|Medium|Math&Gemotry||[Solution](../75-Blind-Questions/Solutions/54-Spiral-Matrix.py) |
-|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|Medium|Math&Gemotry||[Solution](../75-Blind-Questions/Solutions/73-Set-Matrix-Zeroes.py) |
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|Easy|Bit Manipulation||[Solution](../75-Blind-Questions/Solutions/191-Number-of-Bits.py) |
-|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)|Easy|Bit Manipulation||[Solution](../75-Blind-Questions/Solutions/338-Counting-Bits.py) |
-|190|[ Reverse Bits](https://leetcode.com/problems/reverse-bits/)|Easy|Bit Manipulation||[Solution](../75-Blind-Questions/Solutions/190-Reverse-Bits.py) |
-|268|[ Missing Number](https://leetcode.com/problems/missing-number/)|Easy|Bit Manipulation||[Solution](../75-Blind-Questions/Solutions/268-Missing-Number.py) |
-|371|[ Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Medium|Bit Manipulation||[Solution](../75-Blind-Questions/Solutions/371-Sum-Two-Integers.py) |
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/121-sell-and-buy.py) |
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/3-longest-substring.py) |
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/424-longest-replacement.py) |
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/76-Minimum-Window.py) |
+|1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/20-valid-parentheses.py) |
+|1299|[ Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/153-minimum-window.py) |
+|290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) 
+|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|128|[Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|167|[ Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|15|[ 3Sum](https://leetcode.com/problems/3sum/)|Medium|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|3|[Container With Most Water](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|Easy|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Easy|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|617|[ Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+
+
+
+
+
+
