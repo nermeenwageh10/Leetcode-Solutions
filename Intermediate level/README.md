@@ -52,7 +52,6 @@ This folder contains solutions to problems that are suitable for intermediate-le
 # Intermediate-Level-Solutions.:bulb:
 |  #  |      Title     |   Difficulty   | Topic  | Video  | Solutions   |                  
 |-----|----------------|--------------- |--------|--------|-------------|
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
