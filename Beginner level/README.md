@@ -40,6 +40,7 @@ This folder contains solutions to problems that are suitable for beginners in pr
 # Beginner-Level-Solutions.:bulb:
 |  #  |      Title     |   Difficulty   | Topic  | Video  | Solutions   |                  
 |-----|----------------|--------------- |--------|--------|-------------|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing||[Solution]([../Solutions/217-contains-duplicate.py](https://github.com/nermeenwageh10/Leetcode-Solutions/blob/main/Solutions/contains%20duplicate)) |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/1-two-sum.py) |
