@@ -46,7 +46,6 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |167|[ Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|Medium|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
