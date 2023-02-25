@@ -16,18 +16,21 @@
   -Loops 
   -Lists 
   -Function
-  -HashMap(Dictionary)
   
  # Data Structures:
+   -Dictionary(HashMap)
+   -Array
    -Stack 
+   -LinkedList
    -Binary Search Tree 
-   -HashMap 
    
  # Concepts :
-   -Binary Search 
    -Sliding Window 
-   -Two Pointers 
    -BFS & DFS 
+   
+ # Techinques :
+  -Two Pointers
+  -Binary Search 
 
 
 # Leetcode-Solutions
