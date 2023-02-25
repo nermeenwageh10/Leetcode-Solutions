@@ -50,25 +50,21 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |3|[Container With Most Water](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|Easy|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Easy|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
@@ -76,7 +72,6 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
 |104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
