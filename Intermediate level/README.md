@@ -17,23 +17,27 @@
   -Loops 
   -Lists 
   -Function
-  -HashMap(Dictionary)
+  
   
  # Data Structures:
+   -Array
+   -HashMap(Dictionary)
+   -HashSet
    -Stack 
+   -Queue
    -Linked List
    -Binary Search Tree 
-   -HashMap 
-   -Tries
+   -Trie
    -Heap
    
+   
  # Concepts :
-   -Binary Search 
    -Sliding Window 
    -Two Pointers 
    -BFS & DFS 
    -Recursion
    -Heap
+   -Dictionary(HashMap)
   
   #Techniques:
    -Two Pointers 
@@ -43,79 +47,96 @@
    -Backtracking
 
 # Leetcode-Solutions
-This folder contains solutions to problems that are suitable for beginners in problem solving. These problems cover a range of topics and will help you improve your problem solving skills.
+This folder contains solutions to problems that are suitable for intermediate-level problem solvers. These problems are more complex than those in the Beginner-Level-Solutions folder and will help you build on your problem solving skills.
 
-# Beginner-Level-Solutions.:bulb:
+# Intermediate-Level-Solutions.:bulb:
 |  #  |      Title     |   Difficulty   | Topic  | Video  | Solutions   |                  
 |-----|----------------|--------------- |--------|--------|-------------|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
-|217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/217-contains-duplicate.py) |
-|1|[ Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/1-two-sum.py) |
-|27|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/49-Group-anagrams.py) |
-|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/347-K-frequent.py) |
-|448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/238-Product-except.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/659-decode-encode.py) |
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/128-longest-sequence.py) |
-|14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/125-valid-palindrome.py) |
-|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/11-Container-water.py) |
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/121-sell-and-buy.py) |
-|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/3-longest-substring.py) |
-|169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/424-longest-replacement.py) |
-|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/76-Minimum-Window.py) |
-|1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/20-valid-parentheses.py) |
-|1299|[ Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/153-minimum-window.py) |
-|290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) 
-|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|128|[Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|26|[ Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|Easy|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|167|[ Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|Medium|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|15|[ 3Sum](https://leetcode.com/problems/3sum/)|Medium|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|Two Pointers||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|3|[Container With Most Water](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|Easy|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Easy|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|704|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|Easy|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py)|
-|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|Binary Search||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Easy|Linked List||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|226|[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|104|[ Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|100|[Same Tree](https://leetcode.com/problems/same-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|617|[ Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|112|[Path Sum](https://leetcode.com/problems/path-sum/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|Easy|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/33-Search-rotated.py) |
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|1930|[Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|2017|[Grid Game](https://leetcode.com/problems/grid-game/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|2002|[Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|838|[Push Dominoes](https://leetcode.com/problems/push-dominoes/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|179|[Largest Number](https://leetcode.com/problems/largest-number/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|1461|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|15|[3 Sum](https://leetcode.com/problems/3sum/)|Medium|Two Pointer||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|Two Pointer||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|1498|[ Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)|Medium|Two Pointer||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|Medium|Two Pointer||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|Medium|Two Pointer||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|1968|[Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/)|Medium|Two Pointer||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/58-length-word.py)|
+|1838|[Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|1888|[Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|Medium|Sliding Window||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|Medium|Stack||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|Medium|Binary Search||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|Medium|Binary Search||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|Medium|Binary Search||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|Medium|Binary Search||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|Medium|Linked List||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) 
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|Medium|Linked List||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Medium|Linked List||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|2|[IAdd Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|Linked List||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Medium|Linked List||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|143|[ Reorder List](https://leetcode.com/problems/reorder-list/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|Medium|Trees||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|Medium|Tries||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)|Medium|Tries||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/)|Medium|Tries||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|Medium|Heap||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Medium|Heap||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)|Medium|Heap||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)|Medium|Heap||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|Medium|Backtracking||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|78|[Subsets](https://leetcode.com/problems/subsets/)|Medium|Backtracking||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|79|[Word Search](https://leetcode.com/problems/word-search/)|Medium|Backtracking||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/)|Medium|Graph||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|Medium|Advanced Graph||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|Easy|Dynamic Programming||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|198|[House Robber](https://leetcode.com/problems/house-robber/)|Medium|Dynamic Programming||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|Dynamic Programming||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|Medium|Dynamic Programming||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|Medium|Dynamic Programming||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)|Medium|Dynamic Programming||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)|Medium|2 Dynamic Programming||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|Medium|2 Dynamic Programming||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|Medium|Greedy||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|55|[ Jump Game](https://leetcode.com/problems/jump-game/)|Medium|Greedy||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|Medium|Greedy||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|134|[Gas Station](https://leetcode.com/problems/gas-station/)|Medium|Greedy||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|Medium|Intervals||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|Medium|Intervals||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)|Medium|Intervals||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|Medium|Math&Geometry||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|Medium|Math&Geometry||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|Medium|Math&Geometry||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|Medium|Bit Manipulation||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)|Medium|Bit Manipulation||[Solution](../75-Blind-Questions/Solutions/58-length-word.py) |
+
+
