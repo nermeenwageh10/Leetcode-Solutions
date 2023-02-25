@@ -7,6 +7,28 @@
   <br>
 </p>
 
+# Programming Language  :
+  - Choose Your Comfortable Language you want to solve by it . 
+# What do you want to know to start solving :
+  -Variables
+  -Strings 
+  -If Conditions
+  -Loops 
+  -Lists 
+  -Function
+  -HashMap(Dictionary)
+  
+ # Data Structures:
+   -Stack 
+   -Binary Search Tree 
+   -HashMap 
+   
+ # Concepts :
+   -Binary Search 
+   -Sliding Window 
+   -Two Pointers 
+   -BFS & DFS 
+
 
 # Leetcode-Solutions
 This folder contains solutions to problems that are suitable for beginners in problem solving. These problems cover a range of topics and will help you improve your problem solving skills.
