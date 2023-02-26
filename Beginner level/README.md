@@ -26,6 +26,7 @@
    - Binary Search Tree 
    
  # Concepts :
+   - Sorting
    - Sliding Window 
    - BFS & DFS 
    
