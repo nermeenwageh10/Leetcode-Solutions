@@ -9,42 +9,43 @@
 </p>
 
 # Programming Language  :
-  - Choose Your Comfortable Language you want to solve by it . 
+   Choose Your Comfortable Language you want to solve by. 
 # What do you want to know to start solving :
-  -Variables
-  -Strings 
-  -If Conditions
-  -Loops 
-  -Lists 
-  -Function
+  - Variables
+  - Strings 
+  - If Conditions
+  - Loops 
+  - Lists 
+  - Function
   
   
  # Data Structures:
-   -Array
-   -HashMap(Dictionary)
-   -HashSet
-   -Stack 
-   -Queue
-   -Linked List
-   -Binary Search Tree 
-   -Trie
-   -Heap
+   - Array
+   - HashMap(Dictionary)
+   - HashSet
+   - Stack 
+   - Queue
+   - Linked List
+   - Binary Search Tree 
+   - Trie
+   - Heap
    
    
  # Concepts :
-   -Sliding Window 
-   -Two Pointers 
-   -BFS & DFS 
-   -Recursion
-   -Heap
-   -Dictionary(HashMap)
+   - Sliding Window 
+   - Two Pointers 
+   - BFS & DFS 
+   - Recursion
+   - Heap
+   - Dictionary(HashMap)
+   - Sorting
   
   #Techniques:
-   -Two Pointers 
-   -Dynamic Programming 
-   -Greedy 
-   -Bitwise Operators 
-   -Backtracking
+   - Two Pointers 
+   - Dynamic Programming 
+   - Greedy 
+   - Bitwise Operators 
+   - Backtracking
 
 # Leetcode-Solutions
 This folder contains solutions to problems that are suitable for intermediate-level problem solvers. These problems are more complex than those in the Beginner-Level-Solutions folder and will help you build on your problem solving skills.
