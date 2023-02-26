@@ -40,7 +40,7 @@
    - Dictionary(HashMap)
    - Sorting
   
-  #Techniques:
+  # Techniques:
    - Two Pointers 
    - Dynamic Programming 
    - Greedy 
