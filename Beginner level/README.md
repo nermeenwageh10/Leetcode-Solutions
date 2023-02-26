@@ -47,8 +47,8 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|Easy|Array&Hashing||[Solution](../Solutions/724.py) |
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy|Array&Hashing||[Solution](../Solutions/448.py) |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|Easy|Array&Hashing||[Solution](../Solutions/118.py) |
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/659-decode-encode.py) |
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/128-longest-sequence.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Array&Hashing||[Solution](../Solutions/242-valid-anagram.py) |
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|Array&Hashing||[Solution](../Solutions/128-longest-sequence.py) |
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/125-valid-palindrome.py) |
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/11-Container-water.py) |
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Easy|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/121-sell-and-buy.py) |
