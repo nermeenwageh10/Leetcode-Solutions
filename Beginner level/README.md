@@ -10,28 +10,28 @@
 # Programming Language  :
   - Choose Your Comfortable Language you want to solve by. 
 # What do you want to know to start solving :
-  -Variables
-  -Strings 
-  -If Conditions
-  -Loops 
-  -Lists 
-  -Function
+  - Variables
+  - Strings 
+  - If Conditions
+  - Loops 
+  - Lists 
+  - Function
   
  # Data Structures:
-   -Dictionary(HashMap)
-   -HashSet
-   -Array
-   -Stack 
-   -LinkedList
-   -Binary Search Tree 
+   - Dictionary(HashMap)
+   - HashSet
+   - Array
+   - Stack 
+   - LinkedList
+   - Binary Search Tree 
    
  # Concepts :
-   -Sliding Window 
-   -BFS & DFS 
+   - Sliding Window 
+   - BFS & DFS 
    
  # Techinques :
-  -Two Pointers
-  -Binary Search 
+  - Two Pointers
+  - Binary Search 
 
 
 # Leetcode-Solutions
