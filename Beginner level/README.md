@@ -8,7 +8,7 @@
 </p>
 
 # Programming Language  :
-  - Choose Your Comfortable Language you want to solve by it . 
+  - Choose Your Comfortable Language you want to solve by. 
 # What do you want to know to start solving :
   -Variables
   -Strings 
