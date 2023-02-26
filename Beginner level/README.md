@@ -9,7 +9,7 @@
 
 # Programming Language  :
   Choose Your Comfortable Language you want to solve by. 
-# What do you want to know to start solving :
+# What do you need to know to start solving :
   - Variables
   - Strings 
   - If Conditions
