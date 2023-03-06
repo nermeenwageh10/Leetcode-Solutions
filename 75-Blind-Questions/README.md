@@ -14,7 +14,7 @@ This folder contains solutions to the 75 most common questions in Leetcode. Thes
 # 75 Blind-leetcode-questions.:bulb:
 |  #  |      Title     |   Difficulty   | Topic  | Video  | Solutions   |                  
 |-----|----------------|--------------- |--------|--------|-------------|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Contains Duplicate](https://www.youtube.com/watch?v=zfRMonn79wQ)|[Solution](../Solutions/217-contains-duplicate.py) |
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Youtube Video](https://www.youtube.com/watch?v=zfRMonn79wQ)|[Solution](../Solutions/217-contains-duplicate.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Array&Hashing||[Solution](../Solutions/242-valid-anagram.py) |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Array&Hashing||[Solution](../Solutions/1-two-sum.py) |
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../49-Group-anagrams.py) |
