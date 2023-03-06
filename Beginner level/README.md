@@ -41,7 +41,7 @@ This folder contains solutions to problems that are suitable for beginners in pr
 # Beginner-Level-Solutions.:bulb:
 |  #  |      Title     |   Difficulty   | Topic  | Video  | Solutions   |                  
 |-----|----------------|--------------- |--------|--------|-------------|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|Easy|Array&Hashing||[Solution](../Solutions/58.py) |
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|Easy|Array&Hashing|[Video](https://www.youtube.com/watch?v=zfRMonn79wQ)|[Solution](../Solutions/58.py) |
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing||[Solution](../Solutions/217-contains-duplicate.py ) |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Array&Hashing||[Solution](../Solutions/1-two-sum.py) |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|Array&Hashing||[Solution](../Solutions/27.py) |
