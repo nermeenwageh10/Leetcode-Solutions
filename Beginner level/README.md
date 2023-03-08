@@ -53,7 +53,7 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|Array&Hashing||[Solution](../Solutions/14-Longest-Prefix.py) |
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|Easy|Array&Hashing||[Solution](../Solutions/929-Unique-Email.py) |
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|Easy|Array&Hashing||[Solution](../Solutions/205-Isomorphic-Strings.py) |
-|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|Easy|Array&Hashing||[Solution](../Solutions/605-Can-Place-Flowers.py) |
+|605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|Easy|Array&Hashing|[Video](https://www.youtube.com/watch?v=ciQA2TZVr4U)|[Solution](../Solutions/605-Can-Place-Flowers.py) |
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|Easy|Array&Hashing||[Solution](../Solutions/169-Majority-Element.py) |
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|Easy|Array&Hashing||[Solution](../Solutions/496-Next-Greater-Element.py) |
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|Easy|Array&Hashing||[Solution](../Solutions/1189.py) |
