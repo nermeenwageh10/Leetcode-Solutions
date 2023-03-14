@@ -59,13 +59,13 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|Easy|Array&Hashing||[Solution](../Solutions/1189.py) |
 |1299|[ Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|Easy|Array&Hashing||[Solution](../Solutions/1299.py) |
 |290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|Array&Hashing||[Solution](../Solutions/290-Word-Pattern.py) |
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Array&Hashing||[Solution](../Solutions/347-K-frequent.py) 
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Array&Hashing|[Video](https://www.youtube.com/watch?v=DvAE0cNiH9k&t=4s)|[Solution](../Solutions/347-K-frequent.py) 
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../Solutions/49-Group-anagrams.py) |
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|Array&Hashing||[Solution](../Solutions/238-Product-except.py) |
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|Array&Hashing||[Solution](../Solutions/75-Sort-Colors.py) |
 |128|[Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium|Array&Hashing||[Solution](../Solutions/128-longest-sequence.py) |
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|Array&Hashing||[Solution](../Solutions/36-valid.sudoku.py) |
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Two Pointers||[Solution](../Solutions/125-valid-palindrome.py) |
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Two Pointers|[Video](https://www.youtube.com/watch?v=u5ljgU1yVlk)|[Solution](../Solutions/125-valid-palindrome.py) |
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|Easy|Two Pointers||[Solution](../Solutions/680-Valid-Palindrome.py) |
 |344|[ Reverse String](https://leetcode.com/problems/reverse-string/)|Easy|Two Pointers||[Solution](../Solutions/344-Reverse-String.py) |
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|Easy|Two Pointers||[Solution](../Solutions/88-merge-sorted.py) |
