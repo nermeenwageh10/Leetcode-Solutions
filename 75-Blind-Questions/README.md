@@ -22,7 +22,7 @@ This folder contains solutions to the 75 most common questions in Leetcode. Thes
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/238-Product-except.py) |
 |659|[ Encode and Decode Strings ](https://www.lintcode.com/problem/659/)|Medium|Array&Hashing||[Solution](../Solutions/659-decode-encode.py) |
 |128|[ Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium|Array&Hashing||[Solution](../Solutions/128-longest-sequence.py) |
-|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Two Pointers||[Solution](../Solutions/125-valid-palindrome.py) |
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|Easy|Two Pointers|[Video](https://www.youtube.com/watch?v=u5ljgU1yVlk)|[Solution](../Solutions/125-valid-palindrome.py) |
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|Medium|Two Pointers||[Solution](../Solutions/15-3-Sum.py) |
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|Two Pointers||[Solution](../Solutions/11-Container-water.py) |
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|Sliding Window||[Solution](../Solutions/121-sell-and-buy.py) |
