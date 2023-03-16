@@ -17,7 +17,7 @@ This folder contains solutions to the 75 most common questions in Leetcode. Thes
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Video](https://www.youtube.com/watch?v=zfRMonn79wQ)|[Solution](../Solutions/217-contains-duplicate.py) |
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Array&Hashing|[Video](https://www.youtube.com/watch?v=CcemiQbBWjo)|[Solution](../Solutions/242-valid-anagram.py) |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Array&Hashing|[Video](https://www.youtube.com/watch?v=NNOXAtc2c_c)|[Solution](../Solutions/1-two-sum.py) |
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../49-Group-anagrams.py) |
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing|[Video](https://www.youtube.com/watch?v=AeVDUx25AFo&t=2s)|[Solution](../49-Group-anagrams.py) |
 |347|[ Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Array&Hashing|[Video](https://www.youtube.com/watch?v=DvAE0cNiH9k)|[Solution](../Solutions/347-K-frequent.py) |
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|Array&Hashing||[Solution](../75-Blind-Questions/Solutions/238-Product-except.py) |
 |659|[ Encode and Decode Strings ](https://www.lintcode.com/problem/659/)|Medium|Array&Hashing||[Solution](../Solutions/659-decode-encode.py) |
