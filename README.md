@@ -7,6 +7,8 @@
   <br>
 </p>
 
+# Video Solution :
+you can find the solutions of these problems in [Youtube Channel](https://www.youtube.com/channel/UCrV50aw4_UrS3yF89aaybJQ)
 
 # Leetcode-Solutions
 This repository is created to help people make progress in problem solving. It contains three main folders:
