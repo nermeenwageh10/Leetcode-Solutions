@@ -53,7 +53,7 @@ This folder contains solutions to problems that are suitable for intermediate-le
 # Intermediate-Level-Solutions.:bulb:
 |  #  |      Title     |   Difficulty   | Topic  | Video  | Solutions   |                  
 |-----|----------------|--------------- |--------|--------|-------------|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../Solutions/49-Group-anagrams.py) |
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing|[Video](https://www.youtube.com/watch?v=AeVDUx25AFo&t=2s)|[Solution](../Solutions/49-Group-anagrams.py) |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|Medium|Array&Hashing||[Solution](../Solutions/303.py) |
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|Medium|Array&Hashing||[Solution](../Solutions/122.py) |
 |554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|Medium|Array&Hashing||[Solution](../Solutions/554.py) |
