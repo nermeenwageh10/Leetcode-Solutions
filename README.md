@@ -11,6 +11,11 @@
 # Video Solution :
 you can find the solutions of these problems in [Youtube Channel](https://www.youtube.com/channel/UCrV50aw4_UrS3yF89aaybJQ)
 
+## Credits
+
+<a href="https://github.com/MohamedAboElsaud">
+  <img src="https://avatars.githubusercontent.com/u/80965441?v=4" width=30px, height=30px,border-radius=50%/>
+</a>
 # Leetcode-Solutions
 This repository is created to help people make progress in problem solving. It contains three main folders:
 
@@ -25,9 +30,5 @@ This folder contains solutions to problems that are suitable for intermediate-le
 
 Feel free to explore the folders and use the solutions as a reference when solving problems on your own. Contributions to this repository are also welcome!
 
-## Credits
 
-<a href="https://github.com/MohamedAboElsaud">
-  <img src="https://avatars.githubusercontent.com/u/80965441?v=4" width=25px, height=25px,border-radius: 50%/>
-</a>
 
