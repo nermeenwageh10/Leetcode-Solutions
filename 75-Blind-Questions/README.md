@@ -14,7 +14,7 @@ This folder contains solutions to the 75 most common questions in Leetcode. Thes
 # 75 Blind-leetcode-questions.:bulb:
 |  #  | Title   |  Difficulty | Topic | Video | Python| C++ |Java | JavaScript |                
 |-----|---------|-------------|-------|-------|-------|-----|-----|------------|
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Video](https://www.youtube.com/watch?v=zfRMonn79wQ)|[Solution](../Solutions/217-contains-duplicate.py) |
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Video](https://www.youtube.com/watch?v=zfRMonn79wQ)|[Solution](../Solutions/217-contains-duplicate.py) ||||[Solution](../Solutions/JavaScript/217.%20Contains%20Duplicate.js)
 |242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Array&Hashing|[Video](https://www.youtube.com/watch?v=CcemiQbBWjo)|[Solution](../Solutions/242-valid-anagram.py) |
 |1|[ Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Array&Hashing|[Video](https://www.youtube.com/watch?v=NNOXAtc2c_c)|[Solution](../Solutions/1-two-sum.py) |
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing|[Video](https://www.youtube.com/watch?v=AeVDUx25AFo&t=2s)|[Solution](../49-Group-anagrams.py) |

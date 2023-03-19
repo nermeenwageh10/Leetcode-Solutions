@@ -1,6 +1,6 @@
 /*hint
 We want to find top k freq numbers  
-Solved by using Array + Hash Table.   complexity O(N)
+Solved by using Array + Hash Table +sort.   complexity O(N+log(m))
 */
 
 /**
