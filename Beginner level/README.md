@@ -43,7 +43,7 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |-----|----------------|--------------- |--------|--------|-------------|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|Easy|Array&Hashing||[Solution](../Solutions/58.py) |
 |217|[ Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|Easy|Array&Hashing|[Video](https://www.youtube.com/watch?v=zfRMonn79wQ)|[Solution](../Solutions/217-contains-duplicate.py ) |
-|1|[ Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Array&Hashing||[Solution](../Solutions/1-two-sum.py) |
+|1|[ Two Sum](https://leetcode.com/problems/two-sum/)|Easy|Array&Hashing|[video](https://www.youtube.com/watch?v=NNOXAtc2c_c&t=4s)|[Solution](../Solutions/1-two-sum.py) |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|Easy|Array&Hashing||[Solution](../Solutions/27.py) |
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|Easy|Array&Hashing||[Solution](../Solutions/724.py) |
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy|Array&Hashing||[Solution](../Solutions/448.py) |
@@ -60,8 +60,8 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |1299|[ Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|Easy|Array&Hashing||[Solution](../Solutions/1299.py) |
 |290|[ Word Pattern](https://leetcode.com/problems/word-pattern/)|Easy|Array&Hashing||[Solution](../Solutions/290-Word-Pattern.py) |
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|Medium|Array&Hashing|[Video](https://www.youtube.com/watch?v=DvAE0cNiH9k&t=4s)|[Solution](../Solutions/347-K-frequent.py) 
-|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing||[Solution](../Solutions/49-Group-anagrams.py) |
-|238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|Array&Hashing||[Solution](../Solutions/238-Product-except.py) |
+|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|Medium|Array&Hashing|[video](https://www.youtube.com/watch?v=AeVDUx25AFo&t=2s)|[Solution](../Solutions/49-Group-anagrams.py) |
+|238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|Medium|Array&Hashing|[video](https://www.youtube.com/watch?v=NU8iBPcRR6w)|[Solution](../Solutions/238-Product-except.py) |
 |75|[ Sort Colors](https://leetcode.com/problems/sort-colors/)|Medium|Array&Hashing||[Solution](../Solutions/75-Sort-Colors.py) |
 |128|[Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/)|Medium|Array&Hashing||[Solution](../Solutions/128-longest-sequence.py) |
 |36|[ Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|Medium|Array&Hashing||[Solution](../Solutions/36-valid.sudoku.py) |
