@@ -10,7 +10,7 @@
 ## Credits
 
 <a href="https://github.com/MohamedAboElsaud">
-  <img src="https://avatars.githubusercontent.com/u/80965441?v=4"/>
+  <img src="https://avatars.githubusercontent.com/u/80965441?v=4" width=25px, height=25px/>
 </a>
 
 # Video Solution :
