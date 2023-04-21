@@ -77,7 +77,7 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|Easy|Sliding Window||[Solution](../Solutions/python3/121-sell-and-buy.py) |
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|Easy|Sliding Window||[Solution](../Solutions/python3/219-Contains-Duplicate.py) |
 |1343|[Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)|Medium|Sliding Window||[Solution](../Solutions/python3/1343.py) |
-|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|Sliding Window||[Solution](../Solutions/python3/3-longest-substring.py) |
+|3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|Medium|Sliding Window|[Video](https://www.canva.com/design/DAFcavsq97A/1Q2cUszwsHp6FZFadwObCw/edit)|[Solution](../Solutions/python3/3-longest-substring.py) |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|Stack||[Solution](../Solutions/python3/20-valid-parentheses.py) |
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|Easy|Stack||[Solution](../Solutions/python3/682-Baseball-Game.py) |
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|Easy|Stack||[Solution](../Solutions/python3/225.py) |
