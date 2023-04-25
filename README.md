@@ -22,13 +22,10 @@ you can find the solutions of these problems in [Youtube Channel](https://www.yo
 </a>
 
 # Contributing
-Please read the contributing guidlines before opening a PR
+Please read the [contributing guidlines](https://github.com/nermeenwageh10/Leetcode-Solutions/blob/main/CONTRIBUTING.md) before opening a PR
 
 To contribute, please fork this repo and open a PR adding a missing solution from the supported languages.
 
- <br>
- <br>
- 
 # Leetcode-Solutions
 This repository is created to help people make progress in problem solving. It contains three main folders:
 
