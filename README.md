@@ -21,6 +21,13 @@ you can find the solutions of these problems in [Youtube Channel](https://www.yo
   <img src="https://avatars.githubusercontent.com/u/49589347?v=4" width=30px, height=30px,border-radius=50%/>
 </a>
 
+# Contributing
+Please read the contributing guidlines before opening a PR
+
+To contribute, please fork this repo and open a PR adding a missing solution from the supported languages.
+
+ <br>
+ <br>
 # Leetcode-Solutions
 This repository is created to help people make progress in problem solving. It contains three main folders:
 
