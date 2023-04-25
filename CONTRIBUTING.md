@@ -17,6 +17,8 @@ For each problem level, follow these steps to add your solution:
 
 <br>
 
+## Frequently Asked Questions (FAQ)
+
 **Q:** What if there are multiple ways to solve the problem?
 
-**A:** choose the best solution by (Time complexity & memory complexity ).
+**A:** choose the best solution by (Time complexity & memory complexity).
