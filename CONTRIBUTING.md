@@ -21,4 +21,5 @@ For each problem level, follow these steps to add your solution:
 
 **Q:** What if there are multiple ways to solve the problem?
 
-**A:** choose the best solution by (Time complexity & memory complexity).
+**A:** Choose the best solution based on time and memory complexity.   
+If there are multiple optimal solutions, you can either choose one, or add all solutions in the same file, keeping **only one solution <u>uncommented</u>**. Please include a comment above each solution describing the approach technique/algorithm (e.g., two pointers, HashMap, BFS, etc.).
