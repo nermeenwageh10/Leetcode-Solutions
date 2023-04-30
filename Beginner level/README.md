@@ -48,7 +48,7 @@ This folder contains solutions to problems that are suitable for beginners in pr
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|Easy|Array&Hashing||[Solution](../Solutions/python3/724.py)||[Solution](../Solutions/C/724-Find-Pivot-Index.c)|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|Easy|Array&Hashing||[Solution](../Solutions/python3/448.py) | [Solution](../Solutions/C++/448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.cpp)|[Solution](../Solutions/C/448-Find-All-Numbers-Disappeared-in-an-Array.c)|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|Easy|Array&Hashing||[Solution](../Solutions/python3/118.py) ||[Solution](../Solutions/C/118-Pascal's-Triangle.c)|
-|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Array&Hashing||[Solution](../Solutions/python3/242-valid-anagram.py) |
+|242|[ Valid Anagram](https://leetcode.com/problems/valid-anagram/)|Easy|Array&Hashing||[Solution](../Solutions/python3/242-valid-anagram.py) ||[Solution](../Solutions/C/242-Valid-Anagram.c)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Easy|Array&Hashing||[Solution](../Solutions/python3/392-Is-Subsequence.py) |
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|Array&Hashing||[Solution](../Solutions/python3/14-Longest-Prefix.py) | [Solution](../Solutions/C++/14.%20Longest%20Common%20Prefix.cpp)
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|Easy|Array&Hashing||[Solution](../Solutions/python3/929-Unique-Email.py) |
