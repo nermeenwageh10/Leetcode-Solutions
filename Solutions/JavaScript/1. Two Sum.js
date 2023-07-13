@@ -22,3 +22,21 @@ var twoSum = function(nums, target) {
   }
   return res;
 };
+
+// Solution 2: Sorting + Two pointers
+// var twoSum = function(nums, target) {
+//   let left = 0;
+//   let right = nums.length - 1;
+//   let sorted = [...nums].sort((a, b) => a - b);
+//   while (left < right) {
+//       let sum = sorted[left] + sorted[right];
+//       if (sum === target) {
+//           return [nums.indexOf(sorted[left]), nums.lastIndexOf(sorted[right])];
+//       }
+//       if (sum < target) {
+//           left++;
+//       } else {
+//           right--;
+//       }
+//   }
+// };

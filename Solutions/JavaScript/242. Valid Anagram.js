@@ -29,3 +29,24 @@ var isAnagram = function (s, t) {
   }
   return true;
 };
+
+//Solution 2: sorting
+// var isAnagram = function(s, t) {
+//   const ss = s.split("").sort().join("");
+//   const tt = t.split("").sort().join("");
+//   return ss == tt;
+// };
+
+// Solution 3: frequency array
+// var isAnagram = function(s, t) {
+//   if (s.length !== t.length) return false;
+//   let freq = {};
+//   for (let i = 0; i < s.length; i++) {
+//       freq[s[i]] = freq[s[i]] ? freq[s[i]] + 1 : 1;
+//       freq[t[i]] = freq[t[i]] ? freq[t[i]] - 1 : -1;
+//   }
+//   for (let key in freq) {
+//       if (freq[key] !== 0) return false;
+//   }
+//   return true;
+// };
