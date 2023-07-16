@@ -30,3 +30,20 @@ var longestConsecutive = function(nums) {
 
   return mx;
 };
+
+//another solution same above using array instead of set
+// var longestConsecutive = function(nums) {
+//   const existArray = nums.reduce((acc, x) => {
+//       acc[x] = true;
+//       return acc;
+//   }
+//   , {});
+//   let max = 0;
+//   for (let i = 0; i < nums.length; i++) {
+//       if (existArray[nums[i] - 1]) continue;
+//       let count = 0;
+//       while (existArray[nums[i] + count]) count++;
+//       max = Math.max(max, count);
+//   }
+//   return max;    
+// };

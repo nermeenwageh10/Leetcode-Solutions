@@ -43,3 +43,19 @@ var lengthOfLongestSubstring = function(s) {
     // return the maximum length of the window
     return ans;
 };
+
+// Solution 2: without HashTable
+// var lengthOfLongestSubstring = function(s) {
+//     let left = 0;
+//     let right = 0;
+//     let max = 0;
+//     while (right < s.length) {
+//         if(s.slice(left, right).includes(s[right])) {
+//             left++;
+//         } else {
+//             max = Math.max(max, right - left + 1);
+//             right++;
+//         }
+//     }
+//     return max;    
+// };

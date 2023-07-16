@@ -37,3 +37,50 @@ var threeSum = function (nums) {
 
   return res;
 };
+
+//Solution 2: using binary search
+
+// var binarySearchFromIndex = function(nums, target, index) {
+//   let left = index;
+//   let right = nums.length - 1;
+//   let mid = Math.floor((left + right) / 2);
+//   while (left <= right) {
+//       if (nums[mid] === target) {
+//           return mid;
+//       } else if (nums[mid] > target) {
+//           right = mid - 1;
+//           mid = Math.floor((left + right) / 2);
+//       } else {
+//           left = mid + 1;
+//           mid = Math.floor((left + right) / 2);
+//       }
+//   }
+//   return -1;
+// }
+
+// var isNotDuplicate = function(result, target) {
+//   for (let i = 0; i < result.length; i++) {
+//       if (result[i][0] === target[0] && result[i][1] === target[1] && result[i][2] === target[2]) {
+//           return false;
+//       }
+//   }
+//   return true;
+// }
+
+// var threeSum = function(nums) {
+//     const sortedNums = nums.sort((a, b) => a - b);
+//     const result = [];
+//     for (let i = 0; i < sortedNums.length - 1; i++) {
+//         for(let j = i + 1; j < sortedNums.length - 1; j++) {
+//             const target = 0 - sortedNums[i] - sortedNums[j];
+//             const index = binarySearchFromIndex(sortedNums, target, j + 1);
+//             if (index !== -1) {
+//                 const targetArray = [sortedNums[i], sortedNums[j], sortedNums[index]];
+//                 if (isNotDuplicate(result, targetArray)) {
+//                     result.push(targetArray);
+//                 }
+//             }            
+//         }
+//     }
+//     return result;
+// };

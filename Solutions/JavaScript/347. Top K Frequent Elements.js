@@ -30,3 +30,24 @@ var topKFrequent = function (nums, k) {
 
   return res;
 };
+
+// Solution 2: Frequency Array + sort
+// var topKFrequent = function(nums, k) {
+//   const frequency = {};
+//   for (let i = 0; i < nums.length; i++) {
+//       frequency[nums[i]] = frequency[nums[i]] ? frequency[nums[i]] + 1 : 1;
+//   }
+//   const frequencyArray = Object.keys(frequency).map(key => ({ key, value: frequency[key] }));
+//   frequencyArray.sort((a, b) => b.value - a.value);
+//   return frequencyArray.slice(0, k).map(item => item.key);
+// };
+
+/*
+this is a one line solution, but it is not efficient as the above solution
+var topKFrequent = function(nums, k) {
+  return Object.entries(nums.reduce((acc, cur) => {
+      acc[cur] = acc[cur] ? acc[cur] + 1 : 1;
+      return acc;
+  }
+  , {})).sort((a, b) => b[1] - a[1]).slice(0, k).map(item => item[0]);
+};*/

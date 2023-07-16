@@ -25,3 +25,22 @@ var containsDuplicate = function (nums) {
   }
   return false;
 };
+
+// Solution 2: frequency array
+// var containsDuplicate = function(nums) {
+//     let freq = {};
+//     for (let i = 0; i < nums.length; i++) {
+//         freq[nums[i]] = freq[nums[i]] ? freq[nums[i]] + 1 : 1;
+//         if (freq[nums[i]] > 1) return true;
+//     }
+//     return false;
+// };
+
+// Solution 3: array + sorting
+// var containsDuplicate = function(nums) {
+//     nums.sort((a, b) => a - b);
+//     for (let i = 1; i < nums.length; i++) {
+//         if (nums[i] === nums[i - 1]) return true;
+//     }
+//     return false;
+// };
